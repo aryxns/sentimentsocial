@@ -1,0 +1,13 @@
+instaloader==4.5.3
+spacy==2.3.2
+plotly==4.13.0
+pandas==1.0.5
+matplotlib==3.2.2
+streamlit_nightly==0.67.2.dev20200929
+google_auth_oauthlib==0.4.1
+numpy==1.18.5
+requests==2.24.0
+google_api_python_client==1.12.8
+Pillow==8.0.1
+streamlit==0.72.0
+vaderSentiment==3.3.2
